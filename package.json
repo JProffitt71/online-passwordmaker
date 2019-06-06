@@ -1,0 +1,24 @@
+{
+  "name": "online-passwordmaker",
+  "description": "Web tool for generating passwords according to passwordmaker.org method. Interoperable with Passwordmaker Pro extensions.",
+  "version": "0.0.1",
+  "maintainers": [
+    {
+      "name": "JProffitt71",
+      "email": "j0r1u4kf3buw@beconfidential.com",
+      "web": "https://github.com/JProffitt71/"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/JProffitt71/online-passwordmaker.git"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "LGPL",
+      "url": "https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html"
+    }
+  ]
+}
